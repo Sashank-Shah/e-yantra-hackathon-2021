@@ -15,3 +15,8 @@ Hardware requirements :-
 6- Medical air pipes.
 7- medical oxygen mask.
 8- 3d printed bag pack properly fitted inside the polyester bag.
+
+Software - NA.
+
+
+
